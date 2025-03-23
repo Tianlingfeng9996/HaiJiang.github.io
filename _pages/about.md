@@ -11,4 +11,4 @@ I'm a third year phd student from [Department of Mechanical and Intelligent Syst
 
 I am very fortunate to be advised by [Prof. Hiroshi Yokoi](https://researchmap.jp/yokoihiroshi/?lang=en) from the University of Electro-Communivations.
 
-[Email](jianghai@uec.ac.jp) / [Github](https://github.com/Tianlingfeng9996) / [Wechat] (../image/Wechat.jpg)
+[Email](jianghai@uec.ac.jp) / [Github](https://github.com/Tianlingfeng9996) / [Wechat] (../images/Wechat.jpg)
