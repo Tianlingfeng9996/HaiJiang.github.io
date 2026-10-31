@@ -17,7 +17,7 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
-    {% if author.bio %}<p class="author__bio">{% if page.lang == "ja" %}助教 · 中村研究室 · 時系列データ解析 · ロボットマニピュレーション{% else %}{{ author.bio }}{% endif %}</p>{% endif %}
+    {% if author.bio %}<p class="author__bio">{% if page.lang == "ja" %}助教 · <a href="https://hp.naka-lab.org/">中村研究室</a> · 時系列データ解析 · ロボットマニピュレーション{% elsif page.lang == "zh" %}助教 · <a href="https://hp.naka-lab.org/">中村研究室</a> · 时序数据分析 · 机器人操作{% else %}{{ author.bio | replace: "Nakamura Lab", '<a href="https://hp.naka-lab.org/">Nakamura Lab</a>' }}{% endif %}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">

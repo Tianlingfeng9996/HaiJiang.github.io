@@ -32,3 +32,10 @@ end
 check('_site/contact/index.html') do |doc|
   raise 'Contact office is incorrect' unless doc.text.include?('West Building 8, Room 416')
 end
+
+check('_site/zh/index.html') do |doc|
+  raise 'Chinese document language is incorrect' unless doc.at_css('html')['lang'] == 'zh'
+  raise 'Lab link is missing' unless doc.at_css('a[href="https://hp.naka-lab.org/"]')
+  raise 'Chinese affiliation is missing' unless doc.text.include?('担任助教')
+  raise 'Japanese language link is missing' unless doc.at_css('a[hreflang="ja"]')
+end

@@ -8,12 +8,12 @@ redirect_from:
 excerpt: "Assistant Professor in the Nakamura Laboratory at UEC working on time-series data segmentation and robot manipulation."
 ---
 
-<nav aria-label="Language"><strong>English</strong> / <a href="{{ '/ja/' | relative_url }}" lang="ja" hreflang="ja">日本語</a></nav>
+<nav aria-label="Language"><strong>English</strong> / <a href="{{ '/ja/' | relative_url }}" lang="ja" hreflang="ja">日本語</a> / <a href="{{ '/zh/' | relative_url }}" lang="zh" hreflang="zh">中文</a></nav>
 
 <section class="profile-hero">
   <p class="profile-hero__eyebrow">TIME-SERIES ANALYSIS · ROBOT MANIPULATION</p>
   <h2>Understanding time-series data and enabling robots to act.</h2>
-  <p class="profile-hero__lead">I am <strong>Hai Jiang (蒋 海)</strong>, an Assistant Professor in the <strong>Nakamura Laboratory</strong> at <a href="https://www.uec.ac.jp/eng/">The University of Electro-Communications (UEC)</a>, Tokyo, Japan. My current research includes <strong>time-series data segmentation</strong> and <strong>robot manipulation</strong>, drawing on signal processing, machine learning, and robotics.</p>
+  <p class="profile-hero__lead">I am <strong>Hai Jiang (蒋 海)</strong>, an Assistant Professor in the <strong><a href="https://hp.naka-lab.org/">Nakamura Laboratory</a></strong> at <a href="https://www.uec.ac.jp/eng/">The University of Electro-Communications (UEC)</a>, Tokyo, Japan. My current research includes <strong>time-series data segmentation</strong> and <strong>robot manipulation</strong>, drawing on signal processing, machine learning, and robotics.</p>
   <div class="profile-hero__actions">
     <a class="site-button site-button--primary" href="{{ '/research/' | relative_url }}">Explore my research</a>
     <a class="site-button" href="{{ '/publications/' | relative_url }}">View publications</a>
