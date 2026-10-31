@@ -79,7 +79,7 @@ Myoelectric prosthetic hands; human–robot interfaces; biosignal measurement an
     <div class="cv-entry__date">2026</div>
     <div>
       <h3>Tanaka Sakae Award</h3>
-      <p>The University of Electro-Communications alumni association (Tsukikai).</p>
+      <p>The University of Electro-Communications alumni association.</p>
     </div>
   </div>
 
