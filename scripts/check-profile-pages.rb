@@ -24,3 +24,11 @@ check('_site/ja/index.html') do |doc|
   raise 'English return link is missing' unless doc.at_css('a[hreflang="en"][href="/HaiJiang.github.io/"]')
 end
 puts 'Profile pages: rendered links, headings, affiliation and language routes passed.'
+
+check('_site/cv/index.html') do |doc|
+  raise 'researchmap link is missing' unless doc.at_css('a[href="https://researchmap.jp/haijiang97"]')
+  raise 'CV office is incorrect' unless doc.text.include?('West Building 8, Room 416')
+end
+check('_site/contact/index.html') do |doc|
+  raise 'Contact office is incorrect' unless doc.text.include?('West Building 8, Room 416')
+end

@@ -34,6 +34,7 @@ excerpt: "Contact Hai Jiang at the University of Electro-Communications."
   <article class="contact-card">
     <h3>Academic profiles</h3>
     <p><a href="https://researchers.uec.ac.jp/search/detail.html?lang=en&st=researcher&systemId=0aff72fc8975646f520e17560c007669">UEC Researcher Profile</a><br>
+    <a href="https://researchmap.jp/haijiang97">researchmap</a><br>
     <a href="https://orcid.org/0000-0001-7387-8867">ORCID</a><br>
     <a href="https://github.com/Tianlingfeng9996">GitHub</a></p>
   </article>

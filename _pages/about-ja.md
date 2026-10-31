@@ -46,6 +46,7 @@ excerpt: "電気通信大学 中村研究室の助教。時系列データ分節
 - **職位：** 助教
 - **居室：** 西8号館416室
 - **メール：** [jianghai@uec.ac.jp](mailto:jianghai@uec.ac.jp)
+- **researchmap：** [研究者プロフィール](https://researchmap.jp/haijiang97)
 - **ORCID：** [0000-0001-7387-8867](https://orcid.org/0000-0001-7387-8867)
 - **GitHub：** [Tianlingfeng9996](https://github.com/Tianlingfeng9996)
 
