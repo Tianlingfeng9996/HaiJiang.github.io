@@ -5,15 +5,16 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
-excerpt: "Assistant Professor in the Nakamura Laboratory at UEC working on time-series data segmentation and robot manipulation."
+excerpt: "Human–machine co-adaptation, assistive robotics, and learning through interaction."
 ---
 
 <nav aria-label="Language"><strong>English</strong> / <a href="{{ '/ja/' | relative_url }}" lang="ja" hreflang="ja">日本語</a> / <a href="{{ '/zh/' | relative_url }}" lang="zh" hreflang="zh">中文</a></nav>
 
 <section class="profile-hero">
-  <p class="profile-hero__eyebrow">TIME-SERIES ANALYSIS · ROBOT MANIPULATION</p>
-  <h2>Understanding time-series data and enabling robots to act.</h2>
-  <p class="profile-hero__lead">I am <strong>Hai Jiang (蒋 海)</strong>, an Assistant Professor in the <strong><a href="https://hp.naka-lab.org/">Nakamura Laboratory</a></strong> at <a href="https://www.uec.ac.jp/eng/">The University of Electro-Communications (UEC)</a>, Tokyo, Japan. My current research includes <strong>time-series data segmentation</strong> and <strong>robot manipulation</strong>, drawing on signal processing, machine learning, and robotics.</p>
+  <p class="profile-hero__eyebrow">HUMAN–MACHINE CO-ADAPTATION · ASSISTIVE ROBOTICS</p>
+  <h2>Helping people and intelligent machines learn and adapt together.</h2>
+  <p class="profile-hero__lead">I am <strong>Hai Jiang (蒋 海)</strong>, an Assistant Professor in the <a href="https://hp.naka-lab.org/">Nakamura Laboratory</a> at <a href="https://www.uec.ac.jp/eng/">The University of Electro-Communications (UEC)</a>, Tokyo, Japan. My long-term goal is to develop intelligent machines that understand human intention, adapt to individual needs, and expand what people can do in everyday life.</p>
+  <p>My research connects biosignal and behavior understanding, continual learning, robot sensing and control, and human-centered design. Building on my work in myoelectric prostheses, I investigate how people and machines can improve together through interaction, and how evidence from virtual environments and real-world use can guide safer, more useful robotic systems.</p>
   <div class="profile-hero__actions">
     <a class="site-button site-button--primary" href="{{ '/research/' | relative_url }}">Explore my research</a>
     <a class="site-button" href="{{ '/publications/' | relative_url }}">View publications</a>
@@ -21,24 +22,20 @@ excerpt: "Assistant Professor in the Nakamura Laboratory at UEC working on time-
   </div>
 </section>
 
-## Current research
+## Research vision
+
+A machine's technical performance matters when it translates into what a person can actually do. I aim to connect **understanding people, learning through use, and designing useful machines**, with less calibration, less operating effort, and greater freedom for the user. Prosthetic hands are a central research platform; the broader questions extend to assistive devices and human–robot interaction.
 
 <div class="research-grid">
-  <article class="research-card">
-    <span class="research-card__number">01</span>
-    <h3>Time-series data segmentation</h3>
-    <p>Studying methods to divide continuous time-series data into meaningful segments and understand the structure of sequential observations.</p>
-  </article>
-  <article class="research-card">
-    <span class="research-card__number">02</span>
-    <h3>Robot manipulation</h3>
-    <p>Studying robot manipulation through sensing, learning, and control, with an interest in how robots interact with objects.</p>
-  </article>
+  <article class="research-card"><span class="research-card__number">01</span><h3>Understanding intention and behavior</h3><p>Connecting biosignals, time-series segmentation, and multimodal sensing to understand intended movements, ongoing actions, and their outcomes.</p></article>
+  <article class="research-card"><span class="research-card__number">02</span><h3>Personalization and continual learning</h3><p>Studying how machines can adapt with limited individual data and learn from use while retaining acquired skills, alongside changes in the user's own abilities.</p></article>
+  <article class="research-card"><span class="research-card__number">03</span><h3>Safe physical interaction</h3><p>Combining perception, compliant mechanisms, and shared control to support reliable grasping and manipulation while preserving the user's control.</p></article>
+  <article class="research-card"><span class="research-card__number">04</span><h3>Virtual evaluation and real-world design</h3><p>Using simulation, immersive environments, and user evaluation to compare designs and training approaches, then test and refine them on physical systems.</p></article>
 </div>
 
-## Research background
+## Research foundations and current work
 
-My previous work spans biomedical signal processing, machine learning, myoelectric prosthetic hands, and compliant finger mechanisms. This background informs my current research on sequential data and robotic systems.
+My background spans biomedical signal processing, machine learning, prosthetic-hand mechanisms, and real-time control. In the Nakamura Laboratory, time-series data segmentation and robot manipulation contribute to this broader effort to connect human intention, machine learning, and useful physical action.
 
 [Read more about my research →]({{ '/research/' | relative_url }})
 
@@ -117,7 +114,7 @@ My previous work spans biomedical signal processing, machine learning, myoelectr
 <section class="contact-callout">
   <div>
     <p class="contact-callout__eyebrow">COLLABORATION</p>
-    <h2>Interested in time-series analysis or robot manipulation?</h2>
+    <h2>Interested in machines that learn with people?</h2>
     <p>I welcome conversations with researchers, clinicians, engineers, and students working on related problems.</p>
   </div>
   <a class="site-button site-button--primary" href="{{ '/contact/' | relative_url }}">Get in touch</a>

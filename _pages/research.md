@@ -2,15 +2,23 @@
 title: "Research"
 permalink: /research/
 author_profile: true
-excerpt: "Current research on time-series data segmentation and robot manipulation, with a background in myoelectric prosthetics."
+excerpt: "Human–machine co-adaptation, assistive robotics, continual learning, and virtual-to-physical evaluation."
 ---
 
-## Current research in the Nakamura Laboratory
+## Research vision: people and machines learning together
 
-I am an Assistant Professor in the [Nakamura Laboratory](https://hp.naka-lab.org/) at the University of Electro-Communications. My current research includes **time-series data segmentation** and **robot manipulation**, combining signal processing, machine learning, and robotics.
+My long-term goal is to develop intelligent machines that understand human intention, adapt to individual needs, and expand what people can do in everyday life. I connect biosignal and behavior understanding, personalization and continual learning, safe physical interaction, and human-centered design.
 
-- **Time-series data segmentation:** identifying meaningful segments and structure in sequential data.
-- **Robot manipulation:** studying sensing, learning, and control for robot–object interaction.
+Prosthetic hands provide a concrete setting for studying these questions: the user learns to operate the device while the device must adapt to the user and changing conditions. I also investigate how virtual evaluation and real-world evidence can guide the design and training of assistive robotic systems. These are research goals; their value must be demonstrated through reliable operation, reduced burden, and useful capabilities for the person.
+
+## Connected research directions
+
+- **Intention and behavior:** biosignal decoding, time-series data segmentation, and multimodal understanding of actions and outcomes.
+- **Learning through use:** efficient personalization, continual adaptation, and the relationship between machine adaptation and human skill development.
+- **Physical interaction:** sensing, compliant mechanisms, and shared control for safe grasping and robot manipulation.
+- **Evaluation and design:** simulation and immersive environments linked to physical testing and user feedback, to improve devices and training approaches.
+
+My current work in the [Nakamura Laboratory](https://hp.naka-lab.org/) connects time-series segmentation and robot manipulation to these broader questions.
 
 ## Previous research: myoelectric prosthetic hands
 

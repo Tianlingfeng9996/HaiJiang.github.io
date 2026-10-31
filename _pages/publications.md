@@ -107,10 +107,4 @@ or [ORCID](https://orcid.org/0000-0001-7387-8867).
   </article>
 </div>
 
-## Selected presentations
-
-- **Development of a Regression Model for Real-Time Myoelectric Prosthetic Hand Control**, JSME Annual Meeting, 2025.
-- **Development of a Myoelectric Prosthetic Finger Mechanism with Passive Stability for Improving Grasping Performance**, 43rd Annual Conference of the Robotics Society of Japan, 2025.
-- **Pattern-Recognition Myoelectric Prosthesis Training with Latent Feature-Space Feedback**, Japanese Society for Regenerative Medicine and Rehabilitation, 2024.
-
 Questions about a paper or possible collaboration are welcome via the [contact page]({{ '/contact/' | relative_url }}).

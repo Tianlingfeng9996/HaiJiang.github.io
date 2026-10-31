@@ -27,7 +27,7 @@ Full academic records are available on [researchmap](https://researchmap.jp/haij
 
 ## Research interests
 
-Time-series data segmentation; robot manipulation; myoelectric prosthetic hands; human–robot interfaces; biosignal measurement and analysis; continuous multi-DOF control; few-shot and continual adaptation; embedded AI; compliant and underactuated mechanisms; multimodal grasp-state recognition; assistive robotics.
+Human–machine co-adaptation; assistive robotics; continual learning; virtual evaluation and human-centered design; time-series data segmentation; robot manipulation; myoelectric prosthetic hands; human–robot interfaces; biosignal measurement and analysis; continuous multi-DOF control; few-shot and continual adaptation; embedded AI; compliant and underactuated mechanisms; multimodal grasp-state recognition; assistive robotics.
 
 ## Academic appointments and research experience
 
