@@ -20,7 +20,7 @@ excerpt: "Contact Hai Jiang at the University of Electro-Communications."
 
   <article class="contact-card">
     <h3>Office</h3>
-    <p>West Building 8, Room 516<br>
+    <p>West Building 8, Room 416<br>
     The University of Electro-Communications</p>
   </article>
 
