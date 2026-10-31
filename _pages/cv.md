@@ -10,7 +10,7 @@ excerpt: "Academic background, appointments, awards, and research profile of Hai
 
 <div class="cv-intro">
   <p><strong>Hai Jiang (蒋 海), Ph.D.</strong><br>
-  Assistant Professor, Department of Mechanical and Intelligent Systems Engineering<br>
+  Assistant Professor, Nakamura Laboratory, Department of Mechanical and Intelligent Systems Engineering<br>
   The University of Electro-Communications, Tokyo, Japan</p>
 
   <div class="profile-hero__actions">
@@ -22,7 +22,7 @@ excerpt: "Academic background, appointments, awards, and research profile of Hai
 
 ## Research interests
 
-Myoelectric prosthetic hands; human–robot interfaces; biosignal measurement and analysis; continuous multi-DOF control; few-shot and continual adaptation; embedded AI; compliant and underactuated mechanisms; multimodal grasp-state recognition; assistive robotics.
+Time-series data segmentation; robot manipulation; myoelectric prosthetic hands; human–robot interfaces; biosignal measurement and analysis; continuous multi-DOF control; few-shot and continual adaptation; embedded AI; compliant and underactuated mechanisms; multimodal grasp-state recognition; assistive robotics.
 
 ## Academic appointments and research experience
 
