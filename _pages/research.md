@@ -2,8 +2,19 @@
 title: "Research"
 permalink: /research/
 author_profile: true
-excerpt: "Research on adaptive myoelectric prosthetic hands, continuous control, compliant mechanisms, and multimodal safety."
+excerpt: "Current research on time-series data segmentation and robot manipulation, with a background in myoelectric prosthetics."
 ---
+
+## Current research in the Nakamura Laboratory
+
+I am an Assistant Professor in the Nakamura Laboratory at the University of Electro-Communications. My current research includes **time-series data segmentation** and **robot manipulation**, combining signal processing, machine learning, and robotics.
+
+- **Time-series data segmentation:** identifying meaningful segments and structure in sequential data.
+- **Robot manipulation:** studying sensing, learning, and control for robot–object interaction.
+
+## Previous research: myoelectric prosthetic hands
+
+The following sections describe my research background in biosignal processing and prosthetic hands.
 
 My research focuses on **human-centered myoelectric prosthetic hands**: systems that decode a user's intention, adapt to changing biosignals, interact safely with objects, and remain mechanically forgiving in real tasks.
 

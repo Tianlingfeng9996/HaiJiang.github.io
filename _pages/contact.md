@@ -7,7 +7,7 @@ excerpt: "Contact Hai Jiang at the University of Electro-Communications."
 
 <section class="contact-hero">
   <p class="profile-hero__eyebrow">CONTACT & COLLABORATION</p>
-  <h2>Let's talk about prosthetic hands, biosignals, and human-centered robotics.</h2>
+  <h2>Let's talk about time-series analysis and robot manipulation.</h2>
   <p>I welcome research conversations with academic, clinical, and engineering collaborators, as well as students interested in related topics.</p>
 </section>
 
@@ -20,7 +20,7 @@ excerpt: "Contact Hai Jiang at the University of Electro-Communications."
 
   <article class="contact-card">
     <h3>Office</h3>
-    <p>West Building 8, Room 516<br>
+    <p>West Building 8, Room 416<br>
     The University of Electro-Communications</p>
   </article>
 
@@ -34,6 +34,7 @@ excerpt: "Contact Hai Jiang at the University of Electro-Communications."
   <article class="contact-card">
     <h3>Academic profiles</h3>
     <p><a href="https://researchers.uec.ac.jp/search/detail.html?lang=en&st=researcher&systemId=0aff72fc8975646f520e17560c007669">UEC Researcher Profile</a><br>
+    <a href="https://researchmap.jp/haijiang97">researchmap</a><br>
     <a href="https://orcid.org/0000-0001-7387-8867">ORCID</a><br>
     <a href="https://github.com/Tianlingfeng9996">GitHub</a></p>
   </article>
@@ -43,6 +44,7 @@ excerpt: "Contact Hai Jiang at the University of Electro-Communications."
 
 I am particularly interested in collaborations involving:
 
+- time-series data segmentation and robot manipulation;
 - robust and adaptive control of myoelectric prostheses;
 - sEMG decoding, wearable biosignal sensing, and edge AI;
 - compliant prosthetic or robotic hand mechanisms;

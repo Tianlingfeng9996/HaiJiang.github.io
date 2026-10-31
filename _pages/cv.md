@@ -10,19 +10,24 @@ excerpt: "Academic background, appointments, awards, and research profile of Hai
 
 <div class="cv-intro">
   <p><strong>Hai Jiang (蒋 海), Ph.D.</strong><br>
-  Assistant Professor, Department of Mechanical and Intelligent Systems Engineering<br>
+  Assistant Professor, Nakamura Laboratory, Department of Mechanical and Intelligent Systems Engineering<br>
   The University of Electro-Communications, Tokyo, Japan</p>
 
   <div class="profile-hero__actions">
     <a class="site-button site-button--primary" href="mailto:jianghai@uec.ac.jp">Email</a>
     <a class="site-button" href="https://researchers.uec.ac.jp/search/detail.html?lang=en&st=researcher&systemId=0aff72fc8975646f520e17560c007669">UEC profile</a>
+    <a class="site-button" href="https://researchmap.jp/haijiang97">researchmap</a>
     <a class="site-button" href="https://orcid.org/0000-0001-7387-8867">ORCID</a>
   </div>
 </div>
 
+Full academic records are available on [researchmap](https://researchmap.jp/haijiang97), including [awards](https://researchmap.jp/haijiang97/awards), [publications](https://researchmap.jp/haijiang97/published_papers), and [presentations](https://researchmap.jp/haijiang97/presentations).
+
+**Office:** West Building 8, Room 416, The University of Electro-Communications.
+
 ## Research interests
 
-Myoelectric prosthetic hands; human–robot interfaces; biosignal measurement and analysis; continuous multi-DOF control; few-shot and continual adaptation; embedded AI; compliant and underactuated mechanisms; multimodal grasp-state recognition; assistive robotics.
+Time-series data segmentation; robot manipulation; myoelectric prosthetic hands; human–robot interfaces; biosignal measurement and analysis; continuous multi-DOF control; few-shot and continual adaptation; embedded AI; compliant and underactuated mechanisms; multimodal grasp-state recognition; assistive robotics.
 
 ## Academic appointments and research experience
 
@@ -92,6 +97,21 @@ Myoelectric prosthetic hands; human–robot interfaces; biosignal measurement an
   </div>
 </div>
 
+### Additional awards listed on researchmap
+
+- **October 2026 — 学生優秀演題**, 42nd Annual Meeting of the Japanese Society of Prosthetics and Orthotics. Coauthored work on a myoelectric prosthesis with forearm pronation/supination; the award is listed with Shunsei Hayakawa and coauthors. [Record](https://researchmap.jp/haijiang97/awards/55210603).
+- **September 2026 — Best Poster Award**, Biomedical Engineering Symposium 2026. Coauthored work on a powered prosthetic finger informed by two-dimensional thumb-motion measurements; the award is listed with Miran Tanaka and coauthors. [Record](https://researchmap.jp/haijiang97/awards/54946014).
+- **April 2023 — Excellent Proposal**, UEC Next-Generation Researcher Challenging Research Program, recurrent education tools. [Record](https://researchmap.jp/haijiang97/awards/54860692).
+
+## Research funding
+
+- **April 2023–March 2026:** Development of multi-DOF myoelectric prosthetic-hand control based on hand synergy theory. JST Support for Pioneering Research Initiated by the Next Generation (SPRING). [researchmap record](https://researchmap.jp/haijiang97/research_projects/53450007).
+
+## Intellectual property
+
+- **CN119632737B:** 義手制御方法、装置、電子機器および記憶媒体. Listed as a co-inventor on [researchmap](https://researchmap.jp/haijiang97/industrial_property_rights/53449947).
+- **Japanese patent application 2025-181916:** 義肢制御装置及び義肢システム. Listed as a co-inventor on [researchmap](https://researchmap.jp/haijiang97/industrial_property_rights/53449909).
+
 ## Selected research contributions
 
 - Developed regression-based methods for continuously estimating multiple finger-joint angles from surface EMG, including the two-stream **TF2AngleNet** architecture.
@@ -111,4 +131,4 @@ Research mentoring in myoelectric prosthetics, biosignal processing, embedded se
 
 ## Publications
 
-See the curated [publication list]({{ '/publications/' | relative_url }}) or the full [UEC researcher profile](https://researchers.uec.ac.jp/search/detail.html?lang=en&st=researcher&systemId=0aff72fc8975646f520e17560c007669).
+See the curated [publication list]({{ '/publications/' | relative_url }}), the full [researchmap publication record](https://researchmap.jp/haijiang97/published_papers), or the [UEC researcher profile](https://researchers.uec.ac.jp/search/detail.html?lang=en&st=researcher&systemId=0aff72fc8975646f520e17560c007669).
