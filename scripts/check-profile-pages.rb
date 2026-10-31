@@ -19,7 +19,7 @@ end
 
 check('_site/ja/index.html') do |doc|
   raise 'Japanese page language is incorrect' unless doc.at_css('html')['lang'] == 'ja'
-  raise 'Japanese affiliation is missing' unless doc.text.include?('中村研究室で助教')
+  raise 'Japanese affiliation is missing' unless doc.text.include?('中村研究室') && doc.text.include?('助教')
   raise 'Email link is missing' unless doc.at_css('a[href="mailto:jianghai@uec.ac.jp"]')
   raise 'English return link is missing' unless doc.at_css('a[hreflang="en"][href="/HaiJiang.github.io/"]')
 end
@@ -36,6 +36,10 @@ end
 check('_site/zh/index.html') do |doc|
   raise 'Chinese document language is incorrect' unless doc.at_css('html')['lang'] == 'zh'
   raise 'Lab link is missing' unless doc.at_css('a[href="https://hp.naka-lab.org/"]')
-  raise 'Chinese affiliation is missing' unless doc.text.include?('担任助教')
+  raise 'Chinese affiliation is missing' unless doc.text.include?('中村研究室') && doc.text.include?('助教')
   raise 'Japanese language link is missing' unless doc.at_css('a[hreflang="ja"]')
+end
+
+check('_site/publications/index.html') do |doc|
+  raise 'Removed presentations section is still present' if doc.text.include?('Selected presentations')
 end

@@ -7,7 +7,7 @@ excerpt: "Contact Hai Jiang at the University of Electro-Communications."
 
 <section class="contact-hero">
   <p class="profile-hero__eyebrow">CONTACT & COLLABORATION</p>
-  <h2>Let's talk about time-series analysis and robot manipulation.</h2>
+  <h2>Let's talk about human–machine co-adaptation and assistive robotics.</h2>
   <p>I welcome research conversations with academic, clinical, and engineering collaborators, as well as students interested in related topics.</p>
 </section>
 
@@ -44,6 +44,8 @@ excerpt: "Contact Hai Jiang at the University of Electro-Communications."
 
 I am particularly interested in collaborations involving:
 
+- human–machine co-adaptation and learning through interaction;
+- virtual evaluation, training, and human-centered robotic design;
 - time-series data segmentation and robot manipulation;
 - robust and adaptive control of myoelectric prostheses;
 - sEMG decoding, wearable biosignal sensing, and edge AI;
