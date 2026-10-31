@@ -10,7 +10,7 @@ excerpt: "Academic background, appointments, awards, and research profile of Hai
 
 <div class="cv-intro">
   <p><strong>Hai Jiang (蒋 海), Ph.D.</strong><br>
-  Assistant Professor, Nakamura Laboratory, Department of Mechanical and Intelligent Systems Engineering<br>
+  Assistant Professor, <a href="https://hp.naka-lab.org/">Nakamura Laboratory</a>, Department of Mechanical and Intelligent Systems Engineering<br>
   The University of Electro-Communications, Tokyo, Japan</p>
 
   <div class="profile-hero__actions">

@@ -6,12 +6,12 @@ author_profile: true
 excerpt: "電気通信大学 中村研究室の助教。時系列データ分節化とロボットマニピュレーションに取り組んでいます。"
 ---
 
-<nav aria-label="言語切り替え"><a href="{{ '/' | relative_url }}" lang="en" hreflang="en">English</a> / <strong>日本語</strong></nav>
+<nav aria-label="言語切り替え"><a href="{{ '/' | relative_url }}" lang="en" hreflang="en">English</a> / <strong>日本語</strong> / <a href="{{ '/zh/' | relative_url }}" lang="zh" hreflang="zh">中文</a></nav>
 
 <section class="profile-hero">
   <p class="profile-hero__eyebrow">時系列データ解析 · ロボットマニピュレーション</p>
   <h2>時系列データを理解し、ロボットの動作につなげる。</h2>
-  <p class="profile-hero__lead"><strong>蒋 海（Hai Jiang）</strong>です。現在、<a href="https://www.uec.ac.jp/">電気通信大学</a>の<strong>中村研究室で助教</strong>として、<strong>時系列データ分節化</strong>や<strong>ロボットマニピュレーション</strong>の研究に取り組んでいます。信号処理、機械学習、ロボティクスを基盤に、連続的なデータの構造理解とロボットによる物体操作を研究しています。</p>
+  <p class="profile-hero__lead"><strong>蒋 海（Hai Jiang）</strong>です。現在、<a href="https://www.uec.ac.jp/">電気通信大学</a>の<strong><a href="https://hp.naka-lab.org/">中村研究室</a>で助教</strong>として、<strong>時系列データ分節化</strong>や<strong>ロボットマニピュレーション</strong>の研究に取り組んでいます。信号処理、機械学習、ロボティクスを基盤に、連続的なデータの構造理解とロボットによる物体操作を研究しています。</p>
   <div class="profile-hero__actions">
     <a class="site-button site-button--primary" href="#research">研究内容</a>
     <a class="site-button" href="{{ '/publications/' | relative_url }}">研究業績（英語）</a>
@@ -42,7 +42,7 @@ excerpt: "電気通信大学 中村研究室の助教。時系列データ分節
 
 ## 所属・連絡先
 
-- **所属：** 電気通信大学 中村研究室
+- **所属：** 電気通信大学 [中村研究室](https://hp.naka-lab.org/)
 - **職位：** 助教
 - **居室：** 西8号館416室
 - **メール：** [jianghai@uec.ac.jp](mailto:jianghai@uec.ac.jp)

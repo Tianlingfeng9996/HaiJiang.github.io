@@ -7,7 +7,7 @@ excerpt: "Current research on time-series data segmentation and robot manipulati
 
 ## Current research in the Nakamura Laboratory
 
-I am an Assistant Professor in the Nakamura Laboratory at the University of Electro-Communications. My current research includes **time-series data segmentation** and **robot manipulation**, combining signal processing, machine learning, and robotics.
+I am an Assistant Professor in the [Nakamura Laboratory](https://hp.naka-lab.org/) at the University of Electro-Communications. My current research includes **time-series data segmentation** and **robot manipulation**, combining signal processing, machine learning, and robotics.
 
 - **Time-series data segmentation:** identifying meaningful segments and structure in sequential data.
 - **Robot manipulation:** studying sensing, learning, and control for robot–object interaction.
