@@ -45,7 +45,7 @@ check('_site/publications/index.html') do |doc|
 end
 
 check('_site/notes/index.html') do |doc|
-  raise 'Learning Notes navigation is missing' unless doc.at_css('a[href="/HaiJiang.github.io/notes/"]')
+  raise 'Learning Notes navigation is missing' unless doc.at_css('a[href="https://tianlingfeng9996.github.io/HaiJiang.github.io/notes/"]')
   raise 'Learning notes introduction is missing' unless doc.text.include?('把学过的知识')
   raise 'Collection Liquid was not rendered' if doc.text.include?('{% assign learning_notes')
 end
