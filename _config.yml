@@ -121,6 +121,8 @@ defaults:
       share: false
       comments: false
 
+# Notes inherit the site's article layout and author profile.
+# `published: false` keeps unfinished notes out of production builds.
 # Sass
 sass:
   sass_dir: _sass
@@ -147,3 +149,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Learning notes are separate from peer-reviewed publications.
+collections:
+  notes:
+    output: true
+    permalink: /notes/:name/

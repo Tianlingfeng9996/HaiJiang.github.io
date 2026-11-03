@@ -1,0 +1,7 @@
+---
+layout: single
+---
+<p><a href="{{ '/notes/' | relative_url }}">← Learning Notes · 学习笔记</a></p>
+<p class="learning-note-entry__meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%Y-%m-%d' }}</time>{% if page.topic %} · {{ page.topic | escape }}{% endif %}{% if page.updated %} · Updated {{ page.updated | date: '%Y-%m-%d' }}{% endif %}</p>
+{% if page.summary %}<p class="page-lead">{{ page.summary | escape }}</p>{% endif %}
+{{ content }}
