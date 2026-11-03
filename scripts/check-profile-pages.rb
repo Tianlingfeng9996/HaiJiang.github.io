@@ -43,3 +43,10 @@ end
 check('_site/publications/index.html') do |doc|
   raise 'Removed presentations section is still present' if doc.text.include?('Selected presentations')
 end
+
+check('_site/notes/index.html') do |doc|
+  raise 'Learning Notes navigation is missing' unless doc.at_css('a[href="/HaiJiang.github.io/notes/"]')
+  raise 'Learning notes introduction is missing' unless doc.text.include?('把学过的知识')
+  raise 'Collection Liquid was not rendered' if doc.text.include?('{% assign learning_notes')
+end
+raise 'The note template must not be published' if File.exist?('_site/drafts/learning-note-template.html') || Dir.glob('_site/**/*learning-note-template*').any?
